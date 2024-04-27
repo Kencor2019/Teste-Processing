@@ -6,3 +6,6 @@ Basicamente um jogo no processing 2D que faz um bicho andar e atirar
 Fiz isso pra entender arraylist
 
 É isso
+
+Ah e eu fiz uns sprite nele tbm so que não usei todos 
+
