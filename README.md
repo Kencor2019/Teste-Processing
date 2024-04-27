@@ -9,3 +9,4 @@ Fiz isso pra entender arraylist
 
 Ah e eu fiz uns sprite nele tbm so que não usei todos 
 
+Tem umas frutinhas, ovo, espada, flecha, arma, tiro, bolsa, anel e escudo
